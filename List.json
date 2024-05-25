@@ -1,0 +1,12 @@
+{
+    "Dimension": {
+        "Name": "Mineshaft",
+        "Download": "https://cdn.discordapp.com/attachments/1178592226511683606/1193276691456466974/mineshaft.dimension?ex=6652e645&is=665194c5&hm=75bb6e6b48391ff440e6924a9ad1dea4a3ff4b8b7c6436ae629bba4bd45a1452&",
+        "Image": "https://media.discordapp.net/attachments/1178592226511683606/1193276691234172998/image.png?ex=6652e645&is=665194c5&hm=8aa0de9ba90268a1c393a2fbeed9f8cfd3d7a8c46e819eca7522304dccdc3663&=&format=webp&quality=lossless&width=430&height=328"
+    },
+    "Dimension": {
+        "Name": "Dust 2",
+        "Download": "https://cdn.discordapp.com/attachments/1178592226511683606/1193576532405391460/de_dust.dimension?ex=665354c4&is=66520344&hm=d2af1a5747e707412fe4baa6b36b636938a21187063fc5c04ea2d08f0d031d17&",
+        "Image": "https://media.discordapp.net/attachments/1178592226511683606/1193576532136968293/image.png?ex=665354c4&is=66520344&hm=de3262467d9d1a9340725c6da3e52cadc956df18185767ebf7ba9ed13df46903&=&format=webp&quality=lossless&width=515&height=270"
+    }
+}
