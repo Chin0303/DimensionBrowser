@@ -2,98 +2,123 @@
   "Dimensions": [
     {
       "Name": "Mineshaft",
+      "Description": null,
       "Download": "https://cdn.discordapp.com/attachments/1178592226511683606/1193276691456466974/mineshaft.dimension?ex=6652e645&is=665194c5&hm=75bb6e6b48391ff440e6924a9ad1dea4a3ff4b8b7c6436ae629bba4bd45a1452&",
       "Image": "https://chin0303.github.io/DimensionBrowser/Images/Minecraftpicture.png"
     },
     {
       "Name": "Dust 2",
+      "Description": null,
       "Download": "https://cdn.discordapp.com/attachments/1178592226511683606/1193576532405391460/de_dust.dimension?ex=665354c4&is=66520344&hm=d2af1a5747e707412fe4baa6b36b636938a21187063fc5c04ea2d08f0d031d17&",
       "Image": "https://chin0303.github.io/DimensionBrowser/Images/Dustpicture.png"
     },
     {
       "Name": "City",
+      "Description": null,
       "Download": "https://cdn.discordapp.com/attachments/1178592226511683606/1205968757126602752/city_block.dimension?ex=66543fad&is=6652ee2d&hm=85bf3419cf10fcb65f070c43b49e1ea2e59897355a464eda2186ce4893746643&",
       "Image": "https://chin0303.github.io/DimensionBrowser/Images/Citypicture.png"
     },
     {
       "Name": "Wild West",
+      "Description": null,
       "Download": "https://cdn.discordapp.com/attachments/1178592226511683606/1203664914296872960/wildwest.dimension?ex=6653c70e&is=6652758e&hm=4695f8013dcb422771cf5d69d0629c67827a58353cd2c59ee49f1a485682e567&",
       "Image": "https://chin0303.github.io/DimensionBrowser/Images/Wildwestpicture.png"
     },
     {
       "Name": "Mario",
+      "Description": null,
       "Download": "https://cdn.discordapp.com/attachments/1178592226511683606/1194537400240717865/whomps-fortress.dimension?ex=665430a5&is=6652df25&hm=a361c6a65d567b87e02b8b4a523992126b06e74ffb46f86b4453de7a6a3e3ebf&",
       "Image": "https://chin0303.github.io/DimensionBrowser/Images/Mariopicture.png"
     },
     {
       "Name": "Monkeville",
+      "Description": null,
       "Download": "https://cdn.discordapp.com/attachments/1178592226511683606/1194453740464394312/monkeville.dimension?ex=6653e2bb&is=6652913b&hm=1263bdc4679075414916e21f55d891fec0ccdcdb3313b02eb27597d7b2eeb831&",
       "Image": "https://chin0303.github.io/DimensionBrowser/Images/Monkevillepicture.png"
     },
     {
       "Name": "End",
+      "Description": null,
       "Download": "https://cdn.discordapp.com/attachments/1178592226511683606/1194448458510241872/end-dimension.dimension?ex=6653ddd0&is=66528c50&hm=ac249adbe6b4cd2849e78b33f5f8254d4f352df7a701c9654d64616f2d1180c8&",
       "Image": "https://chin0303.github.io/DimensionBrowser/Images/Endpicture.png"
     },
     {
       "Name": "Spongebob",
+      "Description": null,
       "Download": "https://cdn.discordapp.com/attachments/1178592226511683606/1194180753450340432/bikinibottom.dimension?ex=665435fe&is=6652e47e&hm=6d61ef5e66c2c7dae5a3cacf9230d3aaa7a630c578b34a46b9ddc3dab4e42166&",
       "Image": "https://chin0303.github.io/DimensionBrowser/Images/Spongebobpicture.png"
     },
     {
       "Name": "ee",
+      "Description": null,
       "Download": "https://cdn.discordapp.com/attachments/1178592226511683606/1193276691456466974/mineshaft.dimension?ex=66563205&is=6654e085&hm=dfacddfed0965c28986be15ee6c37a6c9b298b4abd838b7da3073af69767ebd4&",
       "Image": "https://cdn.discordapp.com/attachments/1178592226511683606/1193276691234172998/image.png?ex=66563205&is=6654e085&hm=c2a6e7b892de44c3338182ca674dd4197cedb4a4d32b2779087e6b14dbc39be8&"
     },
     {
       "Name": "Backrooms",
+      "Description": null,
       "Download": "https://cdn.discordapp.com/attachments/1178592226511683606/1239874944070979584/backrooms.dimension?ex=66564f46&is=6654fdc6&hm=6430bc5dbf47a683fae3549b6e466e1eb574df2ce3ea146cff0c825814226161&",
       "Image": "https://cdn.discordapp.com/attachments/1178592226511683606/1239874944603652126/image.png?ex=66564f46&is=6654fdc6&hm=18c27e700e1e5c086be0030df400a545c66a335cac6176d24488f8fcfc73eea9&"
     },
     {
       "Name": "e",
+      "Description": null,
       "Download": "https://cdn.discordapp.com/attachments/1178592226511683606/1239874944070979584/backrooms.dimension?ex=66564f46&is=6654fdc6&hm=6430bc5dbf47a683fae3549b6e466e1eb574df2ce3ea146cff0c825814226161&",
       "Image": "https://cdn.discordapp.com/attachments/1178592226511683606/1239874944603652126/image.png?ex=66564f46&is=6654fdc6&hm=18c27e700e1e5c086be0030df400a545c66a335cac6176d24488f8fcfc73eea9&"
     },
     {
       "Name": "Tree Parkour",
+      "Description": null,
       "Download": "https://cdn.discordapp.com/attachments/1178592226511683606/1221258593945260133/tree_parkour.dimension?ex=66567ab2&is=66552932&hm=446f6ba09352f69d30e60553ab10b0ddb47d8c8fc00c74098aa7731187cd1b63&",
       "Image": "https://cdn.discordapp.com/attachments/1178592226511683606/1221258593735802940/image.png?ex=66567ab2&is=66552932&hm=6ac6e390b6e049bcebff46cee9c9308553b5edc2a5ff05662547fcb41e85b0e2&"
     },
     {
       "Name": "Test",
+      "Description": null,
       "Download": "https://cdn.discordapp.com/attachments/1198959164572057640/1244973197758038066/chintest.dimension?ex=66570f24&is=6655bda4&hm=649958e265413898e4eb3abf35c1bbb244f1dc0ef90e8a56dd4151f6fb96d739&",
       "Image": "https://chin0303.github.io/DimensionBrowser/Images/0ecae5cc-7021-4abc-b608-03649a13d1b9.png"
     },
     {
       "Name": "Testy Testy",
+      "Description": null,
       "Download": "https://cdn.discordapp.com/attachments/1198959164572057640/1244973197758038066/chintest.dimension?ex=66570f24&is=6655bda4&hm=649958e265413898e4eb3abf35c1bbb244f1dc0ef90e8a56dd4151f6fb96d739&",
       "Image": "https://chin0303.github.io/DimensionBrowser/Images/3dfbffd3-c6fa-460c-ac49-0701bfb27226.png"
     },
     {
       "Name": "tetet",
+      "Description": null,
       "Download": "https://cdn.discordapp.com/attachments/1198959164572057640/1244973197758038066/chintest.dimension?ex=66570f24&is=6655bda4&hm=649958e265413898e4eb3abf35c1bbb244f1dc0ef90e8a56dd4151f6fb96d739&",
       "Image": "https://chin0303.github.io/DimensionBrowser/Images/79271aed-990d-4421-ae5d-21427794db4f.png"
     },
     {
       "Name": "e",
+      "Description": null,
       "Download": "https://cdn.discordapp.com/attachments/1198959164572057640/1244973197758038066/chintest.dimension?ex=66570f24&is=6655bda4&hm=649958e265413898e4eb3abf35c1bbb244f1dc0ef90e8a56dd4151f6fb96d739&",
       "Image": "https://chin0303.github.io/DimensionBrowser/Images/a1405d78-e6d9-4b2e-8a8f-f279e7459166.png"
     },
     {
       "Name": "hleleolo",
+      "Description": null,
       "Download": "https://cdn.discordapp.com/attachments/1198959164572057640/1244973197758038066/chintest.dimension?ex=66570f24&is=6655bda4&hm=649958e265413898e4eb3abf35c1bbb244f1dc0ef90e8a56dd4151f6fb96d739&",
       "Image": "https://chin0303.github.io/DimensionBrowser/Images/a6c57ce2-b7cb-4308-b3ef-a5719c8c961b.png"
     },
     {
       "Name": "chin is epic",
+      "Description": null,
       "Download": "https://cdn.discordapp.com/attachments/1198959164572057640/1244973197758038066/chintest.dimension?ex=66570f24&is=6655bda4&hm=649958e265413898e4eb3abf35c1bbb244f1dc0ef90e8a56dd4151f6fb96d739&",
       "Image": "https://chin0303.github.io/DimensionBrowser/Images/e9395b7d-27be-475b-bd32-1f380ce1ff0a.png"
     },
     {
       "Name": "Map",
+      "Description": null,
       "Download": "https://cdn.discordapp.com/attachments/1198959164572057640/1244973197758038066/chintest.dimension?ex=66570f24&is=6655bda4&hm=649958e265413898e4eb3abf35c1bbb244f1dc0ef90e8a56dd4151f6fb96d739&",
       "Image": "https://chin0303.github.io/DimensionBrowser/Images/9e630c30-c87e-47fd-9db9-086092b751e2.png"
+    },
+    {
+      "Name": "ee",
+      "Description": null,
+      "Download": "https://cdn.discordapp.com/attachments/1178592226511683606/1203664914296872960/wildwest.dimension?ex=6657bb8e&is=66566a0e&hm=e3de5d71455c658f24d248ad7c489688c2b8f09b3a59ce14257602cd229a38f8&",
+      "Image": "https://chin0303.github.io/DimensionBrowser/Images/"
     }
   ]
 }
