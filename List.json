@@ -1,10 +1,5 @@
 {
   "Dimensions": [
-    {
-      "Name": "My Dimension",
-      "Description": null,
-      "Download": "https://github.com/Chin0303/MyDimensions/releases/download/mydimensions/mydimesiomns.dimension",
-      "Image": "https://chin0303.github.io/DimensionBrowser/Images/dbc748a8-b1bc-47e4-8662-f6be16fe8f29.png"
-    }
+
   ]
 }
