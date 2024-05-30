@@ -1,5 +1,10 @@
 {
   "Dimensions": [
-
+    {
+      "Name": "Super Monke 64 DS (Alpha)",
+      "Description": null,
+      "Download": "https://gitea.com/BrokenStone/SuperMonke64DSMap/releases/download/Alpha-1/Super%20Monke%2064%20DS.dimension",
+      "Image": "https://chin0303.github.io/DimensionBrowser/Images/2b40a66c-9a0b-475e-993d-cbbe1f073463.png"
+    }
   ]
 }
