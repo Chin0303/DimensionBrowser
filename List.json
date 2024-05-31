@@ -77,6 +77,12 @@
       "Description": null,
       "Download": "https://github.com/MrBanana01/BetterDimensions/releases/download/1.0.0/betterdimensions.demo.dimension",
       "Image": "https://chin0303.github.io/DimensionBrowser/Images/c49bc3d3-6800-45b0-b610-0fbebeab98ca.png"
+    },
+    {
+      "Name": "Cartoony Mountains",
+      "Description": null,
+      "Download": "https://github.com/SkateboardVR2/MonkeDimensionMap1/releases/download/MonkeMap/CartoonyMountainsFixedColliders.dimension",
+      "Image": "https://chin0303.github.io/DimensionBrowser/Images/97a8e83e-9fa3-467d-a1d0-24a6b1f4d009.png"
     }
   ]
 }
