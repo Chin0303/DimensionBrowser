@@ -53,6 +53,12 @@
       "Description": null,
       "Download": "https://github.com/TraqVR/Monke-Dimensions-1.21-Showcase/releases/download/showcase/monke.dimensions.1.21.showcase.dimension",
       "Image": "https://chin0303.github.io/DimensionBrowser/Images/"
+    },
+    {
+      "Name": "The Wild West",
+      "Description": null,
+      "Download": "https://github.com/approvality/dimensionality/releases/download/wildwest/the.wild.west.dimension",
+      "Image": "https://chin0303.github.io/DimensionBrowser/Images/"
     }
   ]
 }
