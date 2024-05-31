@@ -65,6 +65,12 @@
       "Description": null,
       "Download": "https://github.com/SkateboardVR2/MonkeDimensionMap1/releases/download/MonkeMap/CartoonyMountainsFixedColliders.dimension",
       "Image": "https://chin0303.github.io/DimensionBrowser/Images/97a8e83e-9fa3-467d-a1d0-24a6b1f4d009.png"
+    },
+    {
+      "Name": "Only Up",
+      "Description": null,
+      "Download": "https://github.com/SkateboardVR2/MonkeDimensionMap1/releases/download/MonkeDimension/only.up.fixed.dimension",
+      "Image": "https://chin0303.github.io/DimensionBrowser/Images/96f4b85b-20f3-457c-8ad8-9fb309135bbb.png"
     }
   ]
 }
