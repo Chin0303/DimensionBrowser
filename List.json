@@ -65,6 +65,12 @@
       "Description": null,
       "Download": "https://github.com/approvality/dimensionality/releases/download/spongehouse/spongebob.house.dimension",
       "Image": "https://chin0303.github.io/DimensionBrowser/Images/619bc08a-87b6-45ef-a023-a4649735ab13.png"
+    },
+    {
+      "Name": "BetterDimensions Demo",
+      "Description": null,
+      "Download": "https://github.com/MrBanana01/BetterDimensions/releases/download/1.0.0/betterdimensions.demo.dimension",
+      "Image": "https://chin0303.github.io/DimensionBrowser/Images/28542234-974f-47c8-a46c-e21b6c4975ef.png"
     }
   ]
 }
