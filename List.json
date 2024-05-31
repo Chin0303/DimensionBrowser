@@ -59,6 +59,12 @@
       "Description": null,
       "Download": "https://github.com/SkateboardVR2/MonkeDimensionMap1/releases/download/MonkeMap/CartoonyMountains.dimension",
       "Image": "https://chin0303.github.io/DimensionBrowser/Images/98f67403-623c-47e9-84c1-395bc40e6228.png"
+    },
+    {
+      "Name": "Spongebob's House",
+      "Description": null,
+      "Download": "https://github.com/approvality/dimensionality/releases/download/spongehouse/spongebob.house.dimension",
+      "Image": "https://chin0303.github.io/DimensionBrowser/Images/619bc08a-87b6-45ef-a023-a4649735ab13.png"
     }
   ]
 }
