@@ -155,6 +155,12 @@
       "Description": null,
       "Download": "https://github.com/BocatAS/MyDimensions/releases/download/SFOTH/swordfightontheheights.dimension",
       "Image": "https://chin0303.github.io/DimensionBrowser/Images/4d1e12c0-0cfd-4b60-b9fc-7484ea7323be.png"
+    },
+    {
+      "Name": "Get Hit By A Car Simulator",
+      "Description": null,
+      "Download": "https://gitea.com/chaz3692/Chaz_Monke_Dimensions/releases/download/carSim/Get%20Hit%20By%20A%20Car%20Simulator.dimension",
+      "Image": "https://chin0303.github.io/DimensionBrowser/Images/1aabdbe2-8827-4db9-bf92-ce04db8e4844.png"
     }
   ]
 }
