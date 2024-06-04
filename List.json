@@ -161,6 +161,12 @@
       "Description": null,
       "Download": "https://gitea.com/chaz3692/Chaz_Monke_Dimensions/releases/download/carSim/Get%20Hit%20By%20A%20Car%20Simulator.dimension",
       "Image": "https://chin0303.github.io/DimensionBrowser/Images/1aabdbe2-8827-4db9-bf92-ce04db8e4844.png"
+    },
+    {
+      "Name": "Unity Playground",
+      "Description": null,
+      "Download": "https://github.com/Dreamer9909/Unity-playground/releases/download/V1/unity.playground.dimension",
+      "Image": "https://chin0303.github.io/DimensionBrowser/Images/4ba4a08f-8a02-40f1-87aa-3caf83b4f725.png"
     }
   ]
 }
