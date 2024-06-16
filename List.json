@@ -221,6 +221,12 @@
       "Description": null,
       "Download": "https://github.com/approvality/dimensionality/releases/download/alcatraz/alcatraz.prison.dimension",
       "Image": "https://chin0303.github.io/DimensionBrowser/Images/4e66144c-b0f3-4684-a4ae-0db46aeceacb.png"
+    },
+    {
+      "Name": "Realistic Caves",
+      "Description": null,
+      "Download": "https://github.com/Cyangorill/Realistic-Cave-Dimension/releases/download/gtag/realisticcaves.dimension",
+      "Image": "https://chin0303.github.io/DimensionBrowser/Images/1caf5716-f295-4f67-8ae3-f52b2f5f8d9e.png"
     }
   ]
 }
