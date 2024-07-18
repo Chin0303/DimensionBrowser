@@ -287,6 +287,12 @@
       "Description": null,
       "Download": "https://github.com/StyledSnail/mydimensions/releases/download/dimension/oldctf.dimension",
       "Image": "https://chin0303.github.io/DimensionBrowser/Images/823cf7ab-e674-412f-8dc5-d4885fd9b075.png"
+    },
+    {
+      "Name": "volcano capture the flag",
+      "Description": null,
+      "Download": "https://github.com/StyledSnail/mydimensions/releases/download/dimension2/volcanoctf.dimension",
+      "Image": "https://chin0303.github.io/DimensionBrowser/Images/edfaecc8-c9b4-41e1-88fe-a60892ec7812.png"
     }
   ]
 }
